@@ -8,7 +8,7 @@ Kitty Memory is a card matching game where the player flips cards to find matchi
 
 ## Deployed URL
 
-https://YOUR_DEPLOYMENT_URL_HERE
+https://emiliammyllymaki.github.io/memorygame/ 
 
 ## How to Play
 
